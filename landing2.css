@@ -1,0 +1,61 @@
+header{
+    background-image: url(/images/bg-4.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: auto;
+    position: relative;
+}
+.img-c{
+    border-radius: 20%;
+    width: 100%;
+    position: inherit;
+    padding: 30px;
+}
+footer {
+    height: 400px;
+    background-color: gray;
+}
+div .btn-c{
+    align-items: center;
+    background-color:rgb(135, 198, 198);
+    }
+div .btn-c:hover{
+    background-color: bisque;
+}
+
+section div .img-3c{
+    width: 80%;
+    border-radius: 0 30 30 0;
+
+
+}
+
+.card-c{
+    background-color: aqua;
+}
+.footer-item{
+    color: darkgray;
+    text-decoration: none;
+    text-rendering: auto;
+}
+.footer-item:hover{
+    color: rosybrown;
+    /* font-weight: bold;
+    font-size: large; */
+}
+.tittle-f{
+    color: rosybrown;
+    font-weight: bold;
+
+}
+.rrss{
+    margin: 5px;
+    font-size: 30px;
+}
+.rrss:hover{
+    text-shadow: 1px 1px 3px yellow;
+    
+    background-size: 2px;
+
+
+}
