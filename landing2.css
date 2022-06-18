@@ -1,5 +1,5 @@
 header{
-    background-image: url(/images/bg-4.jpeg);
+    background-image: url(/images/fondo4\ brush.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     height: auto;
@@ -10,10 +10,17 @@ header{
     width: 100%;
     position: inherit;
     padding: 30px;
+    align-items: center;
+}
+.btn-c1{
+    background-color: #C1B9C6;
+    color: #D7CDCC;
 }
 footer {
-    height: 400px;
+    height: auto;
     background-color: gray;
+    background-size: cover;
+    /* position: relative; */
 }
 div .btn-c{
     align-items: center;
@@ -37,6 +44,7 @@ section div .img-3c{
     color: darkgray;
     text-decoration: none;
     text-rendering: auto;
+    /* position: inherit; */
 }
 .footer-item:hover{
     color: rosybrown;
@@ -49,13 +57,13 @@ section div .img-3c{
 
 }
 .rrss{
+    color: #C1B9C6;
     margin: 5px;
     font-size: 30px;
 }
 .rrss:hover{
-    text-shadow: 1px 1px 3px yellow;
-    
-    background-size: 2px;
+    text-shadow: 1px 1px 3px rosybrown;
+    /* background-size: 2px; */
 
 
 }
