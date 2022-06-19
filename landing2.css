@@ -16,12 +16,10 @@ header{
     background-color: #C1B9C6;
     color: #D7CDCC;
 }
-footer {
-    height: auto;
-    background-color: gray;
-    background-size: cover;
-    /* position: relative; */
+.card-1{
+    box-shadow:1px 1px 5px grey ;
 }
+
 div .btn-c{
     align-items: center;
     background-color:rgb(135, 198, 198);
@@ -40,6 +38,29 @@ section div .img-3c{
 .card-c{
     background-color: aqua;
 }
+
+.section-i{
+    background-size: 100%;
+    margin: 3;
+}
+.text-inv{
+    text-shadow: 1px 1px 1px gray;
+    color: rosybrown;
+}
+.text-3{
+    color: gray;
+}
+.btn-2{
+    background-color: rosybrown;
+    color: black;
+}
+footer {
+    height: auto;
+    background-color: gray;
+    background-size: cover;
+    /* position: relative; */
+}
+
 .footer-item{
     color: darkgray;
     text-decoration: none;
